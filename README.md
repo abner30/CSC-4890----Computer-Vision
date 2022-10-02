@@ -7,7 +7,9 @@ Part A:
   
   
   [[412.40450061   0.         237.63729882]
+  
   [  0.         427.44913266 296.06487431]
+  
   [  0.           0.           1.        ]]
  
  Part B:
@@ -16,7 +18,9 @@ Part A:
  
  
  length along x axis is :  -20.08613012439237
+ 
  length along y axis is : -11.04462865793694
+ 
  length along z axis is : -44.21633556738175
 
 Part C:
@@ -31,7 +35,7 @@ Part C:
     script to find that the matrix was:
     
 		
-		[[457.1668   0.         320.9126  ]
+    [[457.1668   0.         320.9126  ]
     [  0.        456.0823   240.56018 ]
     [  0.           0.           1.   ]]
    
