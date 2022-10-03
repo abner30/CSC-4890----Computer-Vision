@@ -22,6 +22,16 @@ Part A:
  length along y axis is : -11.04462865793694
  
  length along z axis is : -44.21633556738175
+ 
+ The reason for the values being inverted is due to the camera thus all these are real
+ values as you'd just have to take away the negative sign giving you the positive
+ real world value as such:
+ 
+ length along x axis is :  20.08613012439237
+ 
+ length along y axis is : 11.04462865793694
+ 
+ length along z axis is : 44.21633556738175
 
 Part C:
   
